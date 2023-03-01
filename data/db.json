@@ -1,0 +1,42 @@
+{
+    "carnaval": [
+      {
+        "polo":"Marco Zero",
+        "data": "17/02",
+        "inicio": "20:40",
+        "evento":"GERALDO AZEVEDO RECEBE CONVIDADOS",
+        "atracoes": [
+          "Alceu Valença", 
+          "Fafá de Bélem", 
+          "Elba Ramalho", 
+          "Chico César", 
+          "Mariana Aydar", 
+          "Juliana Linhares", 
+          "Lula Queiroga", 
+          "Jorge Du Peixe",
+          "Jota Michilles", 
+          "Quinteto Violado", 
+          "Almério", 
+          "Silvério Pessoa",
+          "Cesar Michilles",
+          "Transversal Frevo Orquestra"
+        ]        
+      },
+      {
+        "polo":"Arsenal",
+        "evento":"RECIFE MATRIZ DA CULTURA POPULAR",
+        "data":"18/02",
+        "inicio":"15:30",
+        "atracoes":[
+          "Boi Malabá", 
+          "TCM Camisa Velha", 
+          "Canindé do Recife", 
+          "Urso Branco de Cangaçá", 
+          "Grupo Fuzuê de Dança",
+          "Orquestra Freviocando Itinerante", 
+          "Bloco das Flores"
+        ]
+      }
+      
+    ]
+  }
